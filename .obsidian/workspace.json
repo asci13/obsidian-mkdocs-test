@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Dataview/Index.md",
+                "file": "Templates/Services.Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f79715c0be91b78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Services.Markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca5151ae2bc2c275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Dataview/Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Dataview/Index.md",
+                "file": "docs/Dataview/Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Dataview/Index.md",
+                "file": "docs/Dataview/Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Dataview/Index.md"
+                "file": "docs/Dataview/Services.md"
               }
             }
           }
@@ -136,8 +161,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a6e2e500bab7ebf",
+  "active": "ca5151ae2bc2c275",
   "lastOpenFiles": [
+    "Templates/Services.Markdown.md",
+    "docs/Dataview/Services.md",
+    "Templates/Executions.md",
+    "Templates/Services.Markdown.2.md",
+    "2021-11-22-22-49-26.png",
+    "README.md",
     "docs/Dataview/services/B.md",
     "docs/Dataview/services/A.md"
   ]
