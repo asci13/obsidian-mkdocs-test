@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "2177f18fab4d3c97",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c94081261bea45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a6e2e500bab7ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Dataview/Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "001d78f5b80bc827",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ca9e63c48561619",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "530f5e15e6c6026e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00f3a6426121a4f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "edc0e2a530d6c2fd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b4b7da8f35248d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b163cbb558575a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c044354d664d9ef6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Dataview/Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc0f6cdb2ef61fa2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Dataview/Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "581c747b1c189105",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4223dcfffdc9bb49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Dataview/Index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a6e2e500bab7ebf",
+  "lastOpenFiles": [
+    "docs/Dataview/services/B.md",
+    "docs/Dataview/services/A.md"
+  ]
+}
